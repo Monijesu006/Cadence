@@ -1,0 +1,6 @@
+{
+  "name": "Cadence: Intermediate Nuance & Dialect Companion",
+  "description": "Interactive language-learning companion designed for intermediate learners to master regional nuance, idioms, conversational register, and speech flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
